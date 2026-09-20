@@ -13,7 +13,7 @@ EXTENSIONS=(
     #"https://github.com/hako-mikan/sd-webui-regional-prompter"
     "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
     "https://github.com/Gourieff/sd-webui-reactor"
-    "https://github.com/huchenlei/sd-webui-openpose-editor"
+    #"https://github.com/huchenlei/sd-webui-openpose-editor"
     "https://github.com/zanllp/infinite-image-browsing"
 )
 
