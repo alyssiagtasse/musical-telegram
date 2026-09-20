@@ -29,10 +29,10 @@ CHECKPOINT_MODELS=(
 )
 
 LORA_MODELS=(
-    "https://civitai.com/api/download/models/16576"
-    "https://civitai.com/api/download/models/880017"
-    "https://civitai.com/api/download/models/1598072"
-    "https://civitai.com/api/download/models/11156"
+    #"https://civitai.com/api/download/models/16576"
+    #"https://civitai.com/api/download/models/880017"
+    #"https://civitai.com/api/download/models/1598072"
+    #"https://civitai.com/api/download/models/11156"
 )
 
 VAE_MODELS=(
