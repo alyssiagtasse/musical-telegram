@@ -9,7 +9,7 @@ EXTENSIONS=(
     #"https://github.com/deforum-art/sd-webui-deforum"
     #"https://github.com/adieyal/sd-dynamic-prompts"
     #"https://github.com/ototadana/sd-face-editor"
-    "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
+    #"https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
     #"https://github.com/hako-mikan/sd-webui-regional-prompter"
     "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
     "https://github.com/Gourieff/sd-webui-reactor"
@@ -33,6 +33,15 @@ LORA_MODELS=(
     #"https://civitai.com/api/download/models/880017"
     #"https://civitai.com/api/download/models/1598072"
     #"https://civitai.com/api/download/models/11156"
+    "https://civitai.red/api/download/models/507874"
+    "https://civitai.red/api/download/models/82507"
+    "https://civitai.red/api/download/models/164102"
+    "https://civitai.red/api/download/models/149269"
+    "https://civitai.red/api/download/models/182360"
+    "https://civitai.red/api/download/models/160984"
+    "https://civitai.red/api/download/models/1391988"
+    "https://civitai.red/api/download/models/1364588"
+    "https://civitai.red/api/download/models/880017"
 )
 
 VAE_MODELS=(
